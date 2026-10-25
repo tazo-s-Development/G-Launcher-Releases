@@ -1,6 +1,6 @@
 {
-  "url": "https://github.com/tazo-s-Development/G-Launcher-Releases/releases/latest/download/GLauncher.exe",
-  "sha256": "6f830a360031c876808b7efce79537056f82969921efe8bcdabac89de9e87ea7",
-  "version": "4.5.7",
-  "notes": "G Launcher 4.5.7: სტატუსი ფოტოს წრიდან, ბექგრაუნდის შეცვლა დაჭერით, ფორუმში „უკან\" ღილაკი, ფავორიტები მოიხსნა"
+  "version": "4.5.8",
+  "sha256": "dcfb1529b37039358ed5ec82ee6c2d8900267490d432d8ad98b5aa11c82f2066",
+  "notes": "G Launcher 4.5.8: შენახვის ზოლი პროფილში, ახალი ჩამოტვირთვის ეკრანი, სერვერების icon-ები და ხმები ღილაკებზე",
+  "url": "https://github.com/tazo-s-Development/G-Launcher-Releases/releases/latest/download/GLauncher.exe"
 }
